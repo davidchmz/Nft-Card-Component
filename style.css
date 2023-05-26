@@ -100,6 +100,10 @@ transform: translate(-50%, -50%);
    color: var(--Cyan);
 }
 
+.container ul li:first-child:hover {
+    color: white;
+    cursor: pointer;
+}
 .container .avatar{
     display: flex;
     align-items: center;
